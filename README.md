@@ -13,6 +13,7 @@
 
 这是我的GitHub的主页请[点击访问](https://github.com/BaiJingSama)
 
+![图片1](1.png)
 
 在破站上看到了黑马的免费教程
 ```html
