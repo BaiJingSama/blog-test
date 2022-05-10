@@ -12,6 +12,8 @@
 - [HTML教程-网道](https://wangdoc.com/html/)
 - [CodeSandbox](https://codesandbox.io/dashboard/home)
 
+  ```html<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  ```
 ## HTML起源
 - 是由Tim Berners-Lee爵士在1990年开发出来的，发明初衷是想实现输入网址就能看到网页这个行为，获取信息能更方便
 
